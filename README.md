@@ -12,3 +12,6 @@ GTmetrix gives you insight on how well your site loads and provides actionable r
 Run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more. Your results will provide rich diagnostic information including resource loading waterfall charts, Page Speed optimization checks and suggestions for improvements.
 ### [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
+## Frontend Utilities
+### [https://github.com/gka/chroma.js](https://github.com/gka/chroma.js)
+JavaScript library for all kinds of color manipulations.
