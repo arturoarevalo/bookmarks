@@ -15,3 +15,5 @@ Run a free website speed test from multiple locations around the globe using rea
 ## Frontend Utilities
 ### [https://github.com/gka/chroma.js](https://github.com/gka/chroma.js)
 JavaScript library for all kinds of color manipulations.
+### [https://plot.ly/](https://plot.ly/)
+Plotly lets users easily create interactive charts and dashboards to share online with their audience.
