@@ -17,3 +17,11 @@ Run a free website speed test from multiple locations around the globe using rea
 JavaScript library for all kinds of color manipulations.
 ### [https://plot.ly/](https://plot.ly/)
 Plotly lets users easily create interactive charts and dashboards to share online with their audience.
+
+
+## Javascript
+### [https://github.com/Microsoft/napajs](https://github.com/Microsoft/napajs)
+Napa.js: a multi-threaded JavaScript runtime
+### [https://www.nativescript.org/](https://www.nativescript.org/)
+Open source framework for building truly native mobile apps
+with Angular, TypeScript or JavaScript.
